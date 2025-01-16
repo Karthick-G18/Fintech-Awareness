@@ -1,4 +1,4 @@
-# Fintech Awareness
+# Fintech Awareness : A Comprehensive Analytic Study
 
 ## Table of Contents
 
