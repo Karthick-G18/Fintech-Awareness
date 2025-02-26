@@ -74,7 +74,7 @@ EDA involves exploring the primary data to answer to gain insights on:
 
 ---
 
-![Report 1](https://github.com/user-attachments/assets/addd854a-344f-4126-ace6-79aa5d370457)
+![Report 1](https://github.com/Karthick-G18/Fintech-Awareness/blob/main/Report%201.png)
 
 ![Report 2](https://github.com/user-attachments/assets/3ff73be8-0077-413c-8754-4dbbbf67c1fb)
 
